@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/bioc_test.dir/link.d CMakeFiles/bioc_test.dir/src/main.c.o -o bioc_test

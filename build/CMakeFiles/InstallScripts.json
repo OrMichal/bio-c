@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/orsah/Plocha/bio-c/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
